@@ -1,7 +1,7 @@
 SENDit is a web app which can help you in sharing file with by directly uploading the file on web app then get the download link of it and send the download link to person to whom you want to share the file.
 Link is available for 24 hours only . 
 Check it out-    https://sendit-fileshare.000webhostapp.com/
-Sceenshots:-
+
 
 ![1](https://user-images.githubusercontent.com/61078303/127610315-018168e4-b0e6-472d-a9c5-dedbc6f9af04.jpg)
 ![2](https://user-images.githubusercontent.com/61078303/127610354-471a0e46-3bac-40f3-920f-5bedd402c6ed.jpg)
